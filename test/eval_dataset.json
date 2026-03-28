@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What was Apple's total net sales in fiscal year 2023?",
+    "ground_truth": "Apple's total net sales in fiscal year 2023 were $383.3 billion, compared to $394.3 billion in fiscal year 2022."
+  },
+  {
+    "question": "What were Apple's iPhone net sales in FY2023?",
+    "ground_truth": "Apple's iPhone net sales were $200.6 billion in fiscal year 2023."
+  },
+  {
+    "question": "How much did Apple's Services segment grow in FY2023?",
+    "ground_truth": "Apple's Services net sales were $85.2 billion in FY2023, growing 9 percent year over year."
+  },
+  {
+    "question": "What was Apple's gross margin in fiscal year 2023?",
+    "ground_truth": "Apple's gross margin was 44.1 percent in fiscal year 2023, compared to 43.3 percent in 2022."
+  },
+  {
+    "question": "What was Apple's Services gross margin?",
+    "ground_truth": "Apple's Services gross margin was 70.8 percent in fiscal year 2023."
+  },
+  {
+    "question": "What is Apple's primary business?",
+    "ground_truth": "Apple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, and sells related services including software and digital content."
+  },
+  {
+    "question": "What products does Apple sell?",
+    "ground_truth": "Apple's products include iPhone, Mac, iPad, Apple Watch, AirPods, Apple TV, HomePod, and Beats products and accessories."
+  },
+  {
+    "question": "What competition risks does Apple face?",
+    "ground_truth": "Apple faces intense competition in all markets, with competitors having substantially greater financial, technical, and human resources. There is no assurance Apple can continue to compete effectively."
+  },
+  {
+    "question": "What economic risks did Apple disclose?",
+    "ground_truth": "Apple disclosed that global and regional economic conditions could materially adversely affect its business."
+  },
+  {
+    "question": "What was Microsoft's total revenue in fiscal year 2023?",
+    "ground_truth": "Microsoft reported total revenue of $211.9 billion for fiscal year 2023, an increase of 7 percent compared to the prior year."
+  },
+  {
+    "question": "What was Microsoft's operating income in FY2023?",
+    "ground_truth": "Microsoft's operating income was $88.5 billion in fiscal year 2023."
+  },
+  {
+    "question": "What was Microsoft's diluted EPS in FY2023?",
+    "ground_truth": "Microsoft's diluted earnings per share was $9.81 in fiscal year 2023, compared with $9.65 in the prior year."
+  },
+  {
+    "question": "How did Microsoft's Intelligent Cloud segment perform?",
+    "ground_truth": "Microsoft's Intelligent Cloud segment revenue was $87.9 billion, growing 19 percent year-over-year."
+  },
+  {
+    "question": "What was Azure's revenue growth in FY2023?",
+    "ground_truth": "Azure and other cloud services revenue grew 29 percent in fiscal year 2023."
+  },
+  {
+    "question": "What was Microsoft's Productivity and Business Processes revenue?",
+    "ground_truth": "Microsoft's Productivity and Business Processes segment revenue was $69.3 billion, increasing 9 percent in fiscal year 2023."
+  },
+  {
+    "question": "What was Microsoft's gross margin in FY2023?",
+    "ground_truth": "Microsoft's gross margin was 69 percent in fiscal year 2023, up from 68 percent in 2022."
+  },
+  {
+    "question": "What was Microsoft's operating margin in FY2023?",
+    "ground_truth": "Microsoft's operating margin was 42 percent in fiscal year 2023."
+  },
+  {
+    "question": "What drove Microsoft's gross margin improvement?",
+    "ground_truth": "Microsoft's gross margin improvement reflects growth in higher-margin cloud services business."
+  },
+  {
+    "question": "What was Nvidia's data center revenue in fiscal year 2024?",
+    "ground_truth": "Nvidia's data center revenue for fiscal year 2024 was $47.5 billion, up from $15.0 billion in fiscal year 2023."
+  },
+  {
+    "question": "What drove Nvidia's data center growth?",
+    "ground_truth": "Nvidia's data center revenue growth was driven by strong demand for AI infrastructure and the H100 GPU architecture."
+  },
+  {
+    "question": "What was Nvidia's gaming revenue?",
+    "ground_truth": "Nvidia's gaming revenue was $10.4 billion."
+  },
+  {
+    "question": "Who are Nvidia's main competitors?",
+    "ground_truth": "Nvidia faces intense competition from AMD, Intel, and other semiconductor companies."
+  },
+  {
+    "question": "What customer concentration risk does Nvidia have?",
+    "ground_truth": "Significant concentration of revenue from a small number of customers increases Nvidia's business risk."
+  },
+  {
+    "question": "What regulatory risk does Nvidia face?",
+    "ground_truth": "Export control regulations may restrict Nvidia's sales to certain markets."
+  },
+  {
+    "question": "Compare Apple and Microsoft gross margins in 2023.",
+    "ground_truth": "Apple's gross margin was 44.1% in FY2023. Microsoft's gross margin was 69% in FY2023. Microsoft has a significantly higher gross margin, reflecting its high-margin cloud and software business."
+  },
+  {
+    "question": "Which company had higher revenue in FY2023, Apple or Microsoft?",
+    "ground_truth": "Apple had higher total revenue at $383.3 billion versus Microsoft's $211.9 billion in their respective fiscal years 2023."
+  },
+  {
+    "question": "How does Apple's Services business compare to its Products business by gross margin?",
+    "ground_truth": "Apple's Services gross margin was 70.8% while Products gross margin was 36.6%, showing Services is significantly more profitable per dollar of revenue."
+  },
+  {
+    "question": "What is the difference between Apple's Products and Services gross margins?",
+    "ground_truth": "Apple's Services gross margin (70.8%) is approximately 34 percentage points higher than its Products gross margin (36.6%)."
+  },
+  {
+    "question": "Did Apple's revenue grow or decline in FY2023?",
+    "ground_truth": "Apple's revenue declined approximately 3 percent in FY2023, from $394.3 billion to $383.3 billion."
+  },
+  {
+    "question": "Did Microsoft's revenue grow in FY2023?",
+    "ground_truth": "Yes, Microsoft's revenue grew 7 percent in FY2023 to $211.9 billion."
+  },
+  {
+    "question": "What is the H100?",
+    "ground_truth": "The H100 is Nvidia's GPU architecture that drove strong demand for AI infrastructure in the data center market."
+  },
+  {
+    "question": "What segment of Microsoft includes Azure?",
+    "ground_truth": "Azure is part of Microsoft's Intelligent Cloud segment, which reported $87.9 billion in revenue for FY2023."
+  },
+  {
+    "question": "Does Apple report segment revenue?",
+    "ground_truth": "Apple reports revenue by product category: iPhone, Mac, iPad, Wearables/Home/Accessories, and Services."
+  },
+  {
+    "question": "What was Apple's fastest growing segment in FY2023?",
+    "ground_truth": "Apple's Services segment grew 9 percent year over year, making it one of the fastest growing segments."
+  },
+  {
+    "question": "What is Apple's iPad revenue?",
+    "ground_truth": "The provided context does not include specific iPad revenue figures."
+  },
+  {
+    "question": "How does rapid technological change affect Nvidia?",
+    "ground_truth": "Nvidia's business is subject to rapid technological change, which represents a significant risk as competitors may develop superior technologies."
+  },
+  {
+    "question": "What is Apple's Mac revenue?",
+    "ground_truth": "The provided context does not include specific Mac revenue figures for FY2023."
+  },
+  {
+    "question": "Is Nvidia profitable?",
+    "ground_truth": "Based on the available context, Nvidia reported significant revenue growth with data center revenue of $47.5 billion, indicating strong profitability, though specific net income figures are not in the indexed context."
+  },
+  {
+    "question": "What percentage of Apple's revenue comes from Services?",
+    "ground_truth": "Apple's Services revenue was $85.2 billion out of total revenue of $383.3 billion, representing approximately 22 percent of total revenue in FY2023."
+  },
+  {
+    "question": "How does Apple describe competition in its 10-K?",
+    "ground_truth": "Apple describes facing intense competition in all markets with competitors having substantially greater financial, technical, and human resources, with no assurance of continued ability to compete effectively."
+  },
+  {
+    "question": "What is Apple's Wearables segment?",
+    "ground_truth": "Apple's Wearables, Home, and Accessories segment includes Apple Watch, AirPods, Apple TV, HomePod, Beats products, and accessories."
+  },
+  {
+    "question": "What year did Microsoft earn $9.81 EPS?",
+    "ground_truth": "Microsoft earned diluted earnings per share of $9.81 in fiscal year 2023."
+  },
+  {
+    "question": "How much did Apple's gross margin improve from 2022 to 2023?",
+    "ground_truth": "Apple's gross margin improved by 0.8 percentage points, from 43.3% in FY2022 to 44.1% in FY2023."
+  },
+  {
+    "question": "What is Microsoft's cloud strategy?",
+    "ground_truth": "Microsoft's cloud strategy is reflected in its Intelligent Cloud segment, including Azure, which grew 29 percent and drove overall revenue growth of 7 percent in FY2023."
+  },
+  {
+    "question": "What percentage did Microsoft's Intelligent Cloud grow?",
+    "ground_truth": "Microsoft's Intelligent Cloud segment grew 19 percent in fiscal year 2023."
+  },
+  {
+    "question": "What are the key risk categories Apple identified?",
+    "ground_truth": "Apple identified economic risk (global/regional conditions), competitive risk (intense competition with well-resourced competitors), and technology/product risk as key concerns."
+  },
+  {
+    "question": "What is Nvidia's primary market beyond gaming?",
+    "ground_truth": "Nvidia's primary market beyond gaming is the data center market, which generated $47.5 billion in fiscal year 2024, driven by AI infrastructure demand."
+  },
+  {
+    "question": "How has Nvidia's data center revenue changed over two years?",
+    "ground_truth": "Nvidia's data center revenue grew from $15.0 billion in fiscal year 2023 to $47.5 billion in fiscal year 2024, a growth of more than 3x."
+  },
+  {
+    "question": "What is Microsoft's total revenue growth rate?",
+    "ground_truth": "Microsoft's total revenue grew 7 percent in fiscal year 2023."
+  },
+  {
+    "question": "Which company among Apple, Microsoft, and Nvidia had the highest gross margin?",
+    "ground_truth": "Microsoft had the highest gross margin at 69 percent in FY2023, compared to Apple's 44.1 percent. Nvidia's gross margin is not specified in the indexed context."
+  }
+]
